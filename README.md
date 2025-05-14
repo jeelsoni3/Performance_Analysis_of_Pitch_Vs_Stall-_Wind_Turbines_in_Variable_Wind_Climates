@@ -13,9 +13,9 @@ Direct Colab Drive link : https://colab.research.google.com/drive/10G9f4DI3qws9n
 ## 📁 Repository Structure
 
 - Python Script
-- Wind data CSV
 - Vestas V90 Output CSV
 - Nordax N29 Output CSV
+- Wind data CSV
 
 ---
 
