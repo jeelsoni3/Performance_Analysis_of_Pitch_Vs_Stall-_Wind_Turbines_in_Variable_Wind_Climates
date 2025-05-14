@@ -10,10 +10,10 @@ Matriculation Number: 00169086
 
 ## 📁 Repository Structure
 
-Python Script
-Wind data CSV
-Vestas V90 Output CSV
-Nordax N29 Output CSV
+- Python Script
+- Wind data CSV
+- Vestas V90 Output CSV
+- Nordax N29 Output CSV
 
 ---
 
