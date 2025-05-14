@@ -6,7 +6,6 @@ by Jeelkumar Nikunjbhai Langalia
 Matriculation Number: 00169086 
 (Master Seminar, Hochschule Ansbach – Smart Energy Systems)
 
-Direct Colab Drive link : https://colab.research.google.com/drive/10G9f4DI3qws9nJ6bd_ckgit6XKgsPDF5?usp=sharing
 
 ---
 
